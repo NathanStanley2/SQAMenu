@@ -44,7 +44,7 @@ def calculator():
         print(age)
         salary = int (input("Salary "))
         print(salary)
-        percentage_saved = float (input("Percentage Saved "))
+        percentage_saved = float (input("Percentage Saved (1 = 100%) "))
         print(percentage_saved)
         savings_goal = int (input("Savings Goal "))
         print(savings_goal)
